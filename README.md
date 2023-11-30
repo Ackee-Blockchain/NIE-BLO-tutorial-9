@@ -1,1 +1,3 @@
-# NIE-BLO-tutorial-9
+# NIE-BLO Tutorial 9
+- CREATE3 hack demonstration
+- Simple AMM fuzz tests
